@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Pandora</string>
+    <string name="new_welcome">Welcome here, dear new user!</string>
+    <string name="hint_username">How should I call you?</string>
+    <string name="hint_password">Type your password</string>
+    <string name="default_login">Get my keys!</string>
+    <string name="informNew_text">When you login at first, give me any password.\n(Just please, remember it!)</string>
+    <!-- &#8230; means the right three points ... -->
+    <string name="hint_usrn">User name&#8230;</string>
+    <string name="hint_accn">Account name&#8230;</string>
+    <string name="hint_pw">Password place&#8230;</string>
+    <string name="button_add">Create my key!</string>
+    <string name="informAdd_text">Don\'t add an exist account name, otherwise I will be angry!</string>
+    <string name="menu_add">Add new key</string>
+</resources>
